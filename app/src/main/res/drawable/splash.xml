@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@color/profsoft_1"/>
-    <item>
-        <bitmap android:src="@drawable/ic_group_704"
-            android:gravity="center"/>
-    </item>
+    <item android:drawable="@color/dark" />
+    <item
+        android:drawable="@drawable/ic_logo"
+        android:gravity="center" />
 </layer-list>

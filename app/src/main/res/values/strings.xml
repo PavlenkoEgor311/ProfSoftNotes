@@ -8,9 +8,9 @@
     <string name="profnotes">PROFNOTES</string>
     <string name="entrance">Вход</string>
     <string name="hint_1">Пожалуйста, войдите для продолжения</string>
-    <string name="hint_edittext_login">Номер телефона или логин</string>
-    <string name="hint_edittext_password">Пароль</string>
-    <string name="hint_2">Или войдиде без аккаунта, если не хотите пользоваться всеми возможностьями приложения</string>
+    <string name="hint_edittext_login">"   Номер телефона или логин"</string>
+    <string name="hint_edittext_password">"   Пароль"</string>
+    <string name="hint_2">Или войдите без аккаунта, если не хотите пользоваться всеми возможностьями приложения</string>
     <string name="hint_3">Не помните словй пароль?Восстановите пароль</string>
     <string name="button_entrance">ВОЙТИ</string>
 </resources>
