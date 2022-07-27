@@ -11,6 +11,6 @@
     <string name="hint_edittext_login">"   Номер телефона или логин"</string>
     <string name="hint_edittext_password">"   Пароль"</string>
     <string name="hint_2">Или войдите без аккаунта, если не хотите пользоваться всеми возможностьями приложения</string>
-    <string name="hint_3">Не помните словй пароль?Восстановите пароль</string>
+    <string name="hint_3">Не помните словй пароль? Восстановите пароль</string>
     <string name="button_entrance">ВОЙТИ</string>
 </resources>

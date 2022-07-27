@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1755" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable/avatar.xml" value="0.2155" />
+        <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable/bg_button.xml" value="0.1965" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1965" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1325" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/drawable/ic_group_704.xml" value="0.165" />
@@ -21,9 +22,10 @@
         <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/activity_splash.xml" value="0.21603260869565216" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/fragment_dashboard.xml" value="0.264" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/fragment_home.xml" value="0.17239583333333333" />
-        <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/fragment_login.xml" value="0.264" />
+        <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/fragment_login.xml" value="0.176" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/layout/fragment_notifications.xml" value="0.17239583333333333" />
         <entry key="..\:/ProfNotes_1807/app/src/main/res/menu/bottom_nav_menu.xml" value="0.17239583333333333" />
+        <entry key="..\:/ProfNotes_1807/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1965" />
       </map>
     </option>
   </component>
